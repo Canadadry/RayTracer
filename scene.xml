@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene bgColorR="255" bgColorG="255" bgColorB="255">
+	<cameras>
+		<camera posx="0" posy="0" posz="0" eyex="0" eyey="0" eyez="1" fovx="90" width="200" height="200" outFileName="test.bmp"/>
+	<camaeras/>
+	<objects>
+		<triangle Ax=" 2" Ay=" 0" Az="12.2" Bx="12" By=" 0" Bz="12.2" Cx=" 2" Cy="10" Cz="12.2" colorR="0" colorG="0" colorB="255"/>
+		<sphere centerx="-2" centery="0" centerz="15"colorR="255" colorG="0" colorB="0"/>
+		<sphere centerx=" 2" centery="0" centerz="15"colorR="0" colorG="255" colorB="0"/>
+	<objects/>
+</scene>
